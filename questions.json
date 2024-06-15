@@ -1,0 +1,165 @@
+{
+    "questions": [
+        {
+            "themeId": 4,
+            "levelId": 1,
+            "title": "Métier",
+            "question": "Quel métier consiste à cultiver des vignes pour produire du raisin ?",
+            "answer": "Viticulteur ou viticultrice (et vigneron ou vigneronne s’il ou elle produit aussi son vin)."
+        },
+        {
+            "themeId": 4,
+            "levelId": 1,
+            "title": "Vinification",
+            "question": "Comment appelle-t-on les rameaux de la vigne ? \nA : les sarments \nB : les serments \nC : les caïmans",
+            "answer": "A : les sarments"
+        },
+        {
+            "themeId": 4,
+            "levelId": 1,
+            "title": "Vinification",
+            "question": "Comment s'appelle la plante sur laquelle pousse le raisin ?",
+            "answer": "La vigne"
+        },
+        {
+            "themeId": 4,
+            "levelId": 1,
+            "title": "Vinification",
+            "question": "Cherche l’intrus parmi ces différentes couleurs de raisin : blanc, rouge, bleu.",
+            "answer": "Bleu évidemment, il n’existe pas de raisin bleu."
+        },
+        {
+            "themeId": 4,
+            "levelId": 1,
+            "title": "Vinification",
+            "question": "Mon 1er suit B. \nMon 2d compose un livre. \nMon tout est le nom des variétés de raisins.",
+            "answer": "Cépages (C – pages)."
+        },
+        {
+            "themeId": 4,
+            "levelId": 1,
+            "title": "Vinification",
+            "question": "Que peut-on trouver de dur à l’intérieur d’un grain de raisin ?",
+            "answer": "Un pépin (de 0 à 4 en général)."
+        },
+        {
+            "themeId": 4,
+            "levelId": 1,
+            "title": "Vinification",
+            "question": "Que perd la vigne en hiver ? \nA : la tête, \nB : ses feuilles \nC : le nord",
+            "answer": "B : Ses feuilles (à partir d’octobre)."
+        },
+        {
+            "themeId": 4,
+            "levelId": 2,
+            "title": "Vinification",
+            "question": "Quelle mention est facultative sur une étiquette de vin ? \nA : L’avertissement sur les dangers de l’alcool. \nB : Le nom producteur \nC : Le millésime",
+            "answer": "C : Le millésime"
+        },
+        {
+            "themeId": 4,
+            "levelId": 2,
+            "title": "Vinification",
+            "question": "Vrai ou faux ? La vigne est une plante grimpante.",
+            "answer": "Vrai (elle s’accroche grâce à ses vrilles)."
+        },
+        {
+            "themeId": 4,
+            "levelId": 2,
+            "title": "Métier",
+            "question": "Comment appelle-t-on la personne qui goûte le vin ?",
+            "answer": "L'œnologue. Il contrôle la production du vin, il contrôle son goût et fait en sorte qu’il obtienne les arômes souhaités avant d’être acheté et consommé."
+        },
+        {
+            "themeId": 4,
+            "levelId": 2,
+            "title": "Vinification",
+            "question": "Quel bois est utilisé pour faire les barriques de vins ?",
+            "answer": "Le chêne"
+        },
+        {
+            "themeId": 4,
+            "levelId": 2,
+            "title": "Vinification",
+            "question": "Comment plante-t-on les pieds de vigne ? \nA : en lignes \nB : en cercles \nC : en zigzags",
+            "answer": "A : en lignes (rangées)"
+        },
+        {
+            "themeId": 4,
+            "levelId": 2,
+            "title": "Vinification",
+            "question": "De quelle couleur est la pulpe, c’est-à-dire la chair du raisin rouge ?",
+            "answer": "Blanche (c’est donc sa peau qui donne sa couleur rouge au jus de raisin)."
+        },
+        {
+            "themeId": 4,
+            "levelId": 2,
+            "title": "Vinification",
+            "question": "Quel nom portent les cueillettes de raisin qui s’effectuent vers le mois de septembre ?",
+            "answer": "Les vendanges."
+        },
+        {
+            "themeId": 4,
+            "levelId": 2,
+            "title": "Vinification",
+            "question": "À quelle saison dit-on que la vigne « dort » ?",
+            "answer": "En hiver (de décembre à février)."
+        },
+        {
+            "themeId": 4,
+            "levelId": 3,
+            "title": "Vinification",
+            "question": "Quel est le rôle des levures dans le processus de vinification ? \nA : Elles donnent sa couleur au vin \nB : Elles servent de conservateur \nC : Elles permettent la fermentation",
+            "answer": "C : Elles permettent la fermentation"
+        },
+        {
+            "themeId": 4,
+            "levelId": 3,
+            "title": "Vinification",
+            "question": "Qu’est-ce qu’un vin de paille ? \nA : Un vin fait avec des fûts en paille \nB : Raisins séchés traditionnellement sur un lit de paille \nC : Un vin filtré avec de la paille",
+            "answer": "B : Raisins séchés traditionnellement sur un lit de paille"
+        },
+        {
+            "themeId": 4,
+            "levelId": 3,
+            "title": "Métier",
+            "question": "Que peut-on fabriquer en pressant des pépins de raisin ?",
+            "answer": "De l’huile de pépins de raisin."
+        },
+        {
+            "themeId": 4,
+            "levelId": 3,
+            "title": "Vinification",
+            "question": "Le fût bourguignon a une contenance de... \nA : 250 litres \nB : 228 litres \nC : 225 litres",
+            "answer": "B : 228 litres"
+        },
+        {
+            "themeId": 4,
+            "levelId": 3,
+            "title": "Métier",
+            "question": "Vrai ou Faux ? Ce sont des bactéries qui assurent la fermentation alcoolique des raisins.",
+            "answer": "La réponse est FAUX. Ce sont les levures de la vigne qui assure la transformation des sucres du raisin en alcool. Les levures ne sont pas des bactéries, mais des champignons."
+        },
+        {
+            "themeId": 4,
+            "levelId": 3,
+            "title": "Vinification",
+            "question": "Vrai ou Faux ? Le muselet sert à sceller le bouchon pour éviter que l’oxygène ambiant contamine le champagne.",
+            "answer": "La réponse est FAUX. Les bouchons de champagne et de vins mousseux sont maintenus par un muselet afin d’éviter que la pression interne de la bouteille n’éjecte le bouchon."
+        },
+        {
+            "themeId": 4,
+            "levelId": 3,
+            "title": "Métier",
+            "question": "Vrai ou Faux ? Il faut attendre qu’un chêne-liège ait 40 ans avant d’utiliser son écorce pour fabriquer des bouchons.",
+            "answer": "La réponse est VRAI. Chaque récolte subséquente n’a lieu que tous les 9 ans. Un chêne-liège vit en moyenne 150 ans."
+        },
+        {
+            "themeId": 4,
+            "levelId": 3,
+            "title": "Vinification",
+            "question": "Vrai ou Faux ? Les rosiers servent de système d’alarme dans les vignobles.",
+            "answer": "La réponse est VRAI. Les rosiers servent à prévenir le viticulteur de l’apparition de l’oïdium, maladie causée par un champignon. Le rosier, plus vulnérable que la vigne est affecté en premier."
+        }
+    ]
+}
